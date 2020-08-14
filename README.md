@@ -1,5 +1,7 @@
 # Stream-Flix
 https://stream-flix-54674.web.app/
+
+
 **Description:**
 It is a React Front-end Project inspired from Netflix. Dynamically fetching Movie images from TMDB API. 
 
